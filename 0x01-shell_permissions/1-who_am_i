@@ -1,1 +1,2 @@
-- e #!/bin/bash\nid -Gn
+#!/bin/bash
+id -Gn
